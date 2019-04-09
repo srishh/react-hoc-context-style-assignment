@@ -1,0 +1,10 @@
+.child-component {
+    background-color: lightsteelblue;
+    padding: 30px;
+    margin: 20px;
+    color: white;
+}
+
+.child-component h3 {
+    background-color: lightsteelblue;
+}
